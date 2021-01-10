@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/anti star.png</file>
+    <file>images/add.png</file>
+    <file>images/password.png</file>
+    <file>images/star.png</file>
+    <file>images/add.png</file>
+    <file>images/address.png</file>
+    <file>images/adult children.png</file>
+    <file>images/adult children2.png</file>
+    <file>images/caar.png</file>
+    <file>images/calender.png</file>
+    <file>images/car.png</file>
+    <file>images/carrd.png</file>
+    <file>images/email.png</file>
+    <file>images/food.png</file>
+    <file>images/gender.png</file>
+    <file>images/gym.png</file>
+    <file>images/gym2.png</file>
+    <file>images/hotel design 1.png</file>
+    <file>images/id.png</file>
+    <file>images/images.png</file>
+    <file>images/index.jpg</file>
+    <file>images/index.png</file>
+    <file>images/LKIHNL.png</file>
+    <file>images/logo 2.png</file>
+    <file>images/mobile.png</file>
+    <file>images/party.png</file>
+    <file>images/PAYPAL.png</file>
+    <file>images/random number2.png</file>
+    <file>images/room.png</file>
+    <file>images/SEEE.png</file>
+    <file>images/SERV.png</file>
+    <file>images/small logo .png</file>
+    <file>images/SPA2.png</file>
+    <file>images/taxi4.png</file>
+    <file>images/UI-PY.png</file>
+    <file>images/username.png</file>
+    <file>images/WELCOME5.png</file>
+  </qresource>
+</RCC>
